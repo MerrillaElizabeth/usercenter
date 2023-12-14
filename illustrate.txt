@@ -1,0 +1,9 @@
+这是我写的第一个“项目”？？
+This is the first "project" I've written.
+参考的是鱼皮的知识星球的编程导航里的”用户中心“这个项目。
+It was inspired by Yupi's project called "User Center" in his Knowledge Planet programming guide.
+实现了基本的增删改查功能。
+It has implemented basic CRUD (Create, Read, Update, Delete) functionality.
+前端使用了Ant Design Pro，具体的可以参考Ant Design Pro官方文档（https://pro.ant.design/docs/overview）
+The frontend uses Ant Design Pro. For more details, you can refer to the official documentation of Ant Design Pro (https://pro.ant.design/docs/overview).
+
